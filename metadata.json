@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MindSpark Trivia AI",
+  "description": "An interactive trivia game host powered by Gemini 2.5. Features a conversational Voice Mode (Live API), a Visual Mode grounded in Google Search data, and dynamic text-to-speech personalities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
